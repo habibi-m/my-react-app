@@ -1,0 +1,9 @@
+.userList {
+    display: flex;
+    width: 390px;
+    height: 376px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    flex-shrink: 0;
+}
